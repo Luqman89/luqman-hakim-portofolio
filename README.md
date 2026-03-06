@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Modern Developer Portfolio
 
-## Getting Started
+A professional, high-performance portfolio website built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**. Designed to showcase backend expertise, academic systems, and reliable software architecture.
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Frontend**: Next.js (App Router), TypeScript, Tailwind CSS.
+- **Animations**: Framer Motion / Lucide React.
+- **Deployment**: Vercel.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Featured Projects
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 1. SIAKAD - Academic Information System
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Backend**: Laravel 11 + MySQL.
+- **Frontend**: React.js & Inertia.js.
+- **Highlights**: Role-Based Access Control (RBAC), complex academic workflows, and seamless SPA experience.
 
-## Learn More
+### 2. Teacher Performance Assessment System (PKG)
 
-To learn more about Next.js, take a look at the following resources:
+- **Focus**: Evaluation platform for school administrations.
+- **Key Features**: Weighted scoring logic, dynamic assessment forms, and Service Pattern implementation.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 3. E-Commerce API Service
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Testing**: 13+ automated tests using **Pest PHP**.
+- **Integrations**: Midtrans Payment Gateway & Database Transactions.
 
-## Deploy on Vercel
+## 🔧 Installation & Setup
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/Luqman89/luqman-hakim-portofolio]
+   ```
