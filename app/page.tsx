@@ -3,6 +3,7 @@ import Projects from "./components/Project";
 import Hero from "./components/Hero";
 import Skills from "./components/Skills";
 import Experience from "./components/Experince";
+import Education from "./components/Education";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <div className="space-y-32">
         <Skills />
+        <Education />
         <Experience />
         <Projects />
       </div>
