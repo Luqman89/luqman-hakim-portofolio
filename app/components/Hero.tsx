@@ -22,17 +22,11 @@ export default function Hero() {
         <Reveal>
           <p className="text-slate-400 text-lg md:text-xl max-w-xl leading-relaxed text-justify">
             I am a{" "}
-            <span className="text-white font-bold">Backend Engineer</span>{" "}
-            specialized in building{" "}
-            <span className="text-white font-bold text-shadow-glow">
-              reliable and scalable systems
-            </span>{" "}
-            with <span className="text-emerald-400 font-bold">Laravel</span>. I
-            am deeply passionate about{" "}
-            <span className="bg-linear-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent font-bold">
-              Clean Code, and Service Patterns
-            </span>{" "}
-            to ensure high-quality software delivery.
+            <span className="text-white font-semibold">Backend Developer</span>{" "}
+            specializing in Laravel, passionate about building reliable and
+            scalable systems. I focus on writing clean, maintainable code and
+            applying structured architecture such as Service Pattern to deliver
+            high-quality software.
           </p>
         </Reveal>
         <Reveal>
