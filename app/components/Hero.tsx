@@ -48,7 +48,7 @@ export default function Hero() {
               View Projects
             </button>
             <a
-              href="/CV_Luqman_Hakim_BackendEngineer.pdf"
+              href="/CV_Luqman_Hakim.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
