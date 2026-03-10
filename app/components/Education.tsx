@@ -1,4 +1,3 @@
-import React from "react";
 import { GraduationCap, Calendar } from "lucide-react";
 
 export interface EducationItem {
@@ -38,7 +37,7 @@ export default function Education() {
             <span>Academic Background</span>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold text-white tracking-tight">
-            Pendidikan
+            Education
           </h2>
         </div>
 
