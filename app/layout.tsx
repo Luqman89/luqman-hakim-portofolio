@@ -15,21 +15,25 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Luqman Hakim | Backend Developer Portfolio",
+  title: "Luqman Hakim | Web Developer Portfolio",
   description:
-    "Professional Backend Engineer specializing in Laravel, PHP, and MySQL. Experienced in building scalable systems and secure API services.",
+    "Professional Web Developer specializing in modern web technologies like Laravel, React, and Next.js. Building seamless, high-performance, and scalable digital experiences.",
   keywords: [
     "Luqman Hakim",
+    "Web Developer",
+    "Fullstack Developer",
+    "Frontend Developer",
     "Backend Developer",
     "Laravel Developer",
-    "Web Developer Indonesia",
+    "React Developer",
+    "Next.js Developer Indonesia",
     "Software Engineer",
   ],
   authors: [{ name: "Luqman Hakim" }],
   openGraph: {
-    title: "Luqman Hakim | Backend Developer Portfolio",
+    title: "Luqman Hakim | Web Developer Portfolio",
     description:
-      "Building reliable system architecture and scalable backend services with Laravel.",
+      "Transforming ideas into high-performance web applications with modern tech stacks.",
     url: "https://portofolio-kamu.com",
     siteName: "Luqman Hakim Portfolio",
     images: [
@@ -45,8 +49,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Luqman Hakim | Backend Developer Portfolio",
-    description: "Backend Developer specializing in Laravel & TDD",
+    title: "Luqman Hakim | Web Developer Portfolio",
+    description:
+      "Web Developer specializing in Laravel, React, and Modern Web Architecture",
     images: ["/Luqman-Hakim.png"],
   },
   robots: {

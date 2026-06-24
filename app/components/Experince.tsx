@@ -1,5 +1,19 @@
 const experiences = [
   {
+    company: "PT Remala Abadi Tbk",
+    role: "Customer Service NOC",
+    period: "April 2026 – Present",
+    points: [
+      "Managed communications and technical inquiries for corporate (B2B), retail, and government institution (Disdik) clients via VoIP, WhatsApp, and phone.",
+      "Monitored network infrastructure real-time using Zabbix to proactively detect service outages and network degradations.",
+      "Conducted initial troubleshooting on network equipment (OLT/ONT) via Telnet to diagnose and analyze service disruptions",
+      "Analyze the device's technical parameters, including run state and last down cause (such as dying-gasp, LOS, etc.), to ensure the accuracy of outage data",
+      "Administered end-to-end incident ticketing workflows from creation to resolution using the Odoo ticketing platform",
+      "Executed precise escalation procedures by dispatching validated technical issues to the field engineering and technical support teams",
+      "Coordinated closely with technical teams to track issue resolution progress and ensure strict adherence to company Service Level Agreements (SLAs)",
+    ],
+  },
+  {
     company: "SMK Binakarya Mandiri",
     role: "Web Developer Intern",
     period: "Sept – Dec 2024",
