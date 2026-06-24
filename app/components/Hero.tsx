@@ -85,38 +85,39 @@ export default function Hero() {
             <div className="w-3 h-3 rounded-full bg-amber-500/50"></div>
             <div className="w-3 h-3 rounded-full bg-emerald-500/50"></div>
             <span className="ml-2 text-[10px] text-slate-500 font-mono tracking-wider">
-              WebDeveloper.tsx
+              NetworkCheck.sh
             </span>
           </div>
 
           <div className="p-5 font-mono text-xs md:text-sm leading-relaxed overflow-hidden">
             <p className="text-pink-400">
-              const <span className="text-blue-400">Developer</span> ={" "}
-              {"() => {"}
+              const <span className="text-blue-400">checkStatus</span> ={" "}
             </p>
 
-            <p className="text-slate-500 ml-4 italic">{`// Passionate about solving problems`}</p>
+            <p className="text-slate-500 ml-4 italic">{`// Monitoring OLT and device logs`}</p>
 
             <p className="text-slate-300 ml-4">
               <span className="text-pink-400">return</span> (
             </p>
 
             <p className="text-slate-300 ml-8">
-              &lt;<span className="text-emerald-400">Skills</span>&gt;
+              &lt;<span className="text-emerald-400">ZabbixMonitor</span>&gt;
             </p>
 
             <p className="text-slate-300 ml-12">
-              {`['React', 'Next.js', 'Laravel', 'Tailwind'].map((skill) => (`}
+              {`['Zabbix', 'Telnet', 'Odoo', 'Hardware'].map((task) => (`}
             </p>
 
             <p className="text-slate-300 ml-16">
-              <span className="text-amber-400">&apos;Ready to Build&apos;</span>
+              <span className="text-amber-400">
+                &apos;System Operational&apos;
+              </span>
             </p>
 
             <p className="text-slate-300 ml-12">{`))`}</p>
 
             <p className="text-slate-300 ml-8">
-              &lt;/<span className="text-emerald-400">Skills</span>&gt;
+              &lt;/<span className="text-emerald-400">ZabbixMonitor</span>&gt;
             </p>
 
             <p className="text-slate-300 ml-4">);</p>
@@ -127,7 +128,7 @@ export default function Hero() {
           {/* Floating Badge */}
           <div className="absolute -bottom-6 -left-6 bg-slate-800/90 backdrop-blur-md border border-slate-700 p-4 rounded-2xl shadow-2xl rotate-[-4deg] group-hover:rotate-0 transition-transform duration-500">
             <p className="text-[10px] text-slate-500 uppercase font-black tracking-widest">
-              Performance Score
+              Academic GPA
             </p>
             <p className="text-2xl font-bold text-emerald-400">
               3.83<span className="text-slate-500 text-sm"> / 4.00</span>

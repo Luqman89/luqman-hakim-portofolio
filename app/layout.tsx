@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Luqman Hakim | Web Developer Portfolio",
+    title: "Luqman Hakim | IT & Network Enthusiast",
     description:
       "Web Developer specializing in Laravel, React, and Modern Web Architecture",
     images: ["/Luqman-Hakim.png"],
