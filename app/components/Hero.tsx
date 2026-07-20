@@ -21,11 +21,14 @@ export default function Hero() {
         </Reveal>
         <Reveal>
           <p className="text-slate-400 text-lg md:text-xl max-w-xl leading-relaxed text-justify">
-            I am a <span className="text-white font-semibold">IT Support</span>{" "}
-            interested in hardware troubleshooting, system maintenance, and
-            daily network monitoring. My focus is on keeping the IT
-            infrastructure running smoothly, resolving technical issues for
-            users, and continuously learning about network systems every day.
+            I am an{" "}
+            <span className="text-white font-semibold">
+              IT Support enthusiast
+            </span>{" "}
+            who enjoys hardware troubleshooting, system maintenance, and network
+            monitoring. I am passionate about keeping IT infrastructure running
+            smoothly, solving technical issues, and continuously expanding my
+            knowledge of networking and IT systems.
           </p>
         </Reveal>
         <Reveal>
