@@ -12,7 +12,7 @@ export default function Hero() {
       {/* KIRI: TEKS */}
       <div className="space-y-6 text-center md:text-left flex flex-col items-center md:items-start">
         <h2 className="text-emerald-500 font-mono tracking-widest uppercase text-sm">
-          IT & Network Enthusiast
+          IT Support Enthusiast
         </h2>
         <Reveal>
           <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">
